@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@font-face {
+  font-family: 'YekanBakh';
+  src: url('./assets/fonts/YekanBakhFaNum-Regular.woff') format('woff'),
+       url('./assets/fonts/YekanBakhFaNum-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'YekanBakh';
+  src: url('./assets/fonts/YekanBakhFaNum-Bold.woff') format('woff'),
+       url('./assets/fonts/YekanBakhFaNum-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'YekanBakh';
+  src: url('./assets/fonts/YekanBakhFaNum-SemiBold.woff') format('woff'),
+       url('./assets/fonts/YekanBakhFaNum-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  font-family: 'YekanBakh', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  direction: rtl;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

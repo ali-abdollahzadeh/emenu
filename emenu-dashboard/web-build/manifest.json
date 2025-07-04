@@ -1,0 +1,7 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "emenu-dashboard",
+  "short_name": "emenu-dashboard",
+  "start_url": "/?utm_source=web_app_manifest"
+}

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.62e96673.css",
+    "main.js": "/static/js/main.8cf59a1b.js",
+    "static/js/644.3444d396.chunk.js": "/static/js/644.3444d396.chunk.js",
+    "static/js/287.d5931a31.js": "/static/js/287.d5931a31.js",
+    "static/media/YekanBakhFaNum-Bold.ttf": "/static/media/YekanBakhFaNum-Bold.716817323dcebc75437d.ttf",
+    "static/media/YekanBakhFaNum-SemiBold.ttf": "/static/media/YekanBakhFaNum-SemiBold.2160008caa7a4acc78ed.ttf",
+    "static/media/YekanBakhFaNum-Regular.ttf": "/static/media/YekanBakhFaNum-Regular.95284a96a1d6c40f6f3c.ttf",
+    "static/media/YekanBakhFaNum-Bold.woff": "/static/media/YekanBakhFaNum-Bold.a8abae714a2d281dde07.woff",
+    "static/media/YekanBakhFaNum-SemiBold.woff": "/static/media/YekanBakhFaNum-SemiBold.6133512bd5cac0148d09.woff",
+    "static/media/YekanBakhFaNum-Regular.woff": "/static/media/YekanBakhFaNum-Regular.77bab7dd3c4d12a12a9d.woff",
+    "index.html": "/index.html",
+    "serve.json": "/serve.json",
+    "manifest.json": "/manifest.json",
+    "main.62e96673.css.map": "/static/css/main.62e96673.css.map",
+    "main.8cf59a1b.js.map": "/static/js/main.8cf59a1b.js.map",
+    "644.3444d396.chunk.js.map": "/static/js/644.3444d396.chunk.js.map",
+    "287.d5931a31.js.map": "/static/js/287.d5931a31.js.map"
+  },
+  "entrypoints": [
+    "static/js/287.d5931a31.js",
+    "static/css/main.62e96673.css",
+    "static/js/main.8cf59a1b.js"
+  ]
+}
